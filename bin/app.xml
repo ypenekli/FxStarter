@@ -1,0 +1,10 @@
+﻿<Application ts="1473583758928" uri="http://www.yonetici.web.tr/data/program/" 	app="http://www.yonetici.site/data/program/app.xml" launch="com.yp.aptynt.Main">
+	<lib file="AptYonetim.jar" checksum="648355553" size="1625645"  />
+	<updateText>Güncelliyor...</updateText>
+	<filename>AptYonetim</filename>
+	<updateLabelStyle>-fx-font-weight: bold;</updateLabelStyle>
+	<progressBarStyle>-fx-pref-width: 200;</progressBarStyle>
+	<wrapperStyle>-fx-spacing: 10; -fx-padding: 25;</wrapperStyle>
+	<parameters>--module-path "/javafx-sdk-21.0.1/lib"  --add-modules javafx.controls,javafx.fxml,javafx.web</parameters>
+	<acceptDowngrade>false</acceptDowngrade>
+</Application>
