@@ -1,0 +1,8 @@
+--uri=http://www.yonetici.web.tr/data/program/
+--launch=com.yp.aptynt.Main
+--whatsNewPage=http://www.yonetici.web.tr/WebYonetim/whatis-new.php?PROJECTID=0.4&VERSION=309
+--filename=AptYonetim
+--updateText=Guncelliyor...
+--updateLabelStyle=-fx-font-weight:bold;
+--progressBarStyle=-fx-pref-width:200;
+--wrapperStyle=-fx-spacing:10;-fx-padding:25;
