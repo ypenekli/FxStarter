@@ -1,4 +1,4 @@
-# FXLauncher
+# FxStarter is an adapted version of FXLauncher to Java11+ as an Eclipse project
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/no.tornado/fxlauncher/badge.svg?cacheBust=true)](https://search.maven.org/#search|ga|1|no.tornado.fxlauncher)
 [![Apache License](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
